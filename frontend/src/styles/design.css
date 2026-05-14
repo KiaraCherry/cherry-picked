@@ -1,0 +1,37 @@
+:root {
+    /* Color Pallette from Pinterest ("Dietitian") */
+    --savory-sage: #818263;
+    --avocado: #C2C395;
+    --blush-beet: #DDBAAE;
+    --peach-protein: #EFD7CF;
+    --oat-latte: #DCD4C1;
+    --honey-oatmilk: #F6EAD4;
+    --coconut-cream: #FFFAF2;
+
+    --blackberry-jam: #2C2C1E;
+    --smooth-banana: #8A8A6E;
+    --caramel-mocha: #6B4A40;
+
+    /* Semantic Aliases */
+    --pg-page: var(--coconut-cream);
+    --bg-card: var(--honey-oatmilk);
+    --bg-card-saved: var(--oat-latte);
+    --bg-nav: var(--savory-sage);
+
+    --text-primary: var(--blackberry-jam);
+    --text-secondary: var(--savory-sage);
+    --text-muted: var(--smooth-banana);
+    --text-on-dark: var(--coconut-cream);
+
+    --accent-primary: var(--savory-sage);
+    --accent-secondary: var(--avocado);
+    --accent-tag: var(--blush-beet);
+    --accent-tag-text: var(--caramel-mocha);
+
+    --border-color: var(--oat-latte);
+    --border-radius: 8px;
+    --border-radius-lg: 16px;
+
+
+
+}
